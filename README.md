@@ -73,9 +73,6 @@ WebappWithSQL/
 - **.NET 6.0 stack**
 - Git & GitHub for version control
 
-<p align="center">
-  <img src="images/Resource.png" alt="Resource" width="600"/>
-</p>
 
 ---
 
