@@ -16,9 +16,6 @@
   <img src="images/azure-diagram.png" alt="Azure Resource Overview" width="600"/>
 </p>
 
-<p align="center">
-  <img src="images/app-preview.png" alt="App Preview or Deployment" width="600"/>
-</p>
 
 ---
 
@@ -77,12 +74,17 @@ WebappWithSQL/
 - Git & GitHub for version control
 
 <p align="center">
-  <img src="images/app-preview2.png" alt="Resource" width="600"/>
+  <img src="images/Resource.png" alt="Resource" width="600"/>
 </p>
 
 ---
 
 ## ⚙️ How to Use
+
+
+<p align="center">
+  <img src="images/app-preview.png" alt="App Preview or Deployment" width="600"/>
+</p>
 
 ### 1. Clone the Repository
 
